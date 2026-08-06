@@ -169,7 +169,8 @@ python inference.py --weights weights/best.pt --source assets/videos/fire_test.m
 
 
 
-A short annotated demo video is available at `assets/videos/demo_output.mp4`.
+A number of short, annotated videos are available in the `assets/videos` path. 
+
 
 ---
 
