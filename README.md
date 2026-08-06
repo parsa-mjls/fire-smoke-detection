@@ -168,7 +168,6 @@ python inference.py --weights weights/best.pt --source assets/videos/fire_test.m
 
 
 
-*(Add your own before/after sample pairs to `assets/images/` and reference them here.)*
 
 A short annotated demo video is available at `assets/videos/demo_output.mp4`.
 
