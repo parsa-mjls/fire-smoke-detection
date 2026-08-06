@@ -157,13 +157,13 @@ python inference.py --weights weights/best.pt --source assets/videos/fire_test.m
 
 | Input | Detection |
 |---|---|
-| ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output2.jpg) |
-| ![sample2](assets/images/input/input11.jpg) | ![sample2 out](assets/images/output11.jpg) |
-| ![sample3](assets/images/input/input14.jpg) | ![sample3 out](assets/images/output14.jpg) |
-| ![sample4](assets/images/input/input15.jpg) | ![sample4 out](assets/images/output15.jpg) |
-| ![sample5](assets/images/input/input17.jpg) | ![sample5 out](assets/images/output17.jpg) |
-| ![sample6](assets/images/input/input18.jpg) | ![sample6 out](assets/images/output18.jpg) |
-| ![sample7](assets/images/input/input20.jpg) | ![sample7 out](assets/images/output20.jpg) |
+| ![sample1](assets/Images/input/input2.jpg) | ![sample1 out](assets/Images/output2.jpg) |
+| ![sample2](assets/Images/input/input11.jpg) | ![sample2 out](assets/Images/output11.jpg) |
+| ![sample3](assets/Images/input/input14.jpg) | ![sample3 out](assets/Images/output14.jpg) |
+| ![sample4](assets/Images/input/input15.jpg) | ![sample4 out](assets/Images/output15.jpg) |
+| ![sample5](assets/Images/input/input17.jpg) | ![sample5 out](assets/Images/output17.jpg) |
+| ![sample6](assets/Images/input/input18.jpg) | ![sample6 out](assets/Images/output18.jpg) |
+| ![sample7](assets/Images/input/input20.jpg) | ![sample7 out](assets/Images/output20.jpg) |
 
 
 
