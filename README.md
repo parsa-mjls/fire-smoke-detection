@@ -192,4 +192,4 @@ weights are provided as-is for demonstration purposes.
 ## 👤 Author
 
 **Parsa_Majlesi**
-[LinkedIn](#) · [GitHub](#) · [Email](#)
+[LinkedIn](#) · [GitHub](https://github.com/parsa-mjls) · [Email](#)
