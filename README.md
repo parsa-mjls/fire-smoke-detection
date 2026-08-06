@@ -158,6 +158,15 @@ python inference.py --weights weights/best.pt --source assets/videos/fire_test.m
 | Input | Detection |
 |---|---|
 | ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output2.jpg) |
+| ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output11.jpg) |
+| ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output14.jpg) |
+| ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output15.jpg) |
+| ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output17.jpg) |
+| ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output18.jpg) |
+| ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output20.jpg) |
+
+
+
 
 *(Add your own before/after sample pairs to `assets/images/` and reference them here.)*
 
