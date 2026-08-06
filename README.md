@@ -52,7 +52,7 @@ and webcams**, with all thresholds and behavior fully configurable via CLI argum
 with precision, recall, and mAP curves converging after ~150 epochs.*
 
 > Full training logs, dataset composition, and intermediate checkpoints are kept
-> private, as they were produced using internal company resources.
+> private
 
 ---
 
