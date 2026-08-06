@@ -191,5 +191,5 @@ weights are provided as-is for demonstration purposes.
 
 ## 👤 Author
 
-**[Your Name]**
+**Parsa_Majlesi**
 [LinkedIn](#) · [GitHub](#) · [Email](#)
