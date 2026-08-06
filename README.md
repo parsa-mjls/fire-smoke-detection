@@ -32,8 +32,8 @@ and webcams**, with all thresholds and behavior fully configurable via CLI argum
 |---|---|
 | **Base model** | YOLOv8n |
 | **Classes** | `fire`, `smoke` |
-| **Training data** | Combination of public fire/smoke detection datasets |
-| **Epochs** | ~240 |
+| **Training data** | Combination of fire/smoke detection datasets |
+| **Epochs** | ~250 |
 
 ### Final metrics (validation)
 
