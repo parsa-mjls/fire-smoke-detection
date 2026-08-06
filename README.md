@@ -157,8 +157,8 @@ python inference.py --weights weights/best.pt --source assets/videos/fire_test.m
 
 | Input | Detection |
 |---|---|
-| ![sample1](assets/images/input/input2.jpg) | ![sample1 out](assets/images/output2.jpg) |
-| ![sample2](assets/images/input/input2.jpg) | ![sample2 out](assets/images/output11.jpg) |
+| ![sample1](assets/images/input/input2.jpg) | ![output2](assets/images/output2.jpg) |
+| ![sample2](assets/images/input/input2.jpg) | ![output11](assets/images/output11.jpg) |
 | ![sample3](assets/images/input/input2.jpg) | ![sample3 out](assets/images/output14.jpg) |
 | ![sample4](assets/images/input/input2.jpg) | ![sample4 out](assets/images/output15.jpg) |
 | ![sample5](assets/images/input/input2.jpg) | ![sample5 out](assets/images/output17.jpg) |
