@@ -59,7 +59,7 @@ with precision, recall, and mAP curves converging after ~150 epochs.*
 ## 📁 Repository Structure
 
 ```
-fire-smoke-detection-demo/
+fire-smoke-detection/
 ├── inference.py              # Unified inference script (image/video/RTSP/webcam)
 ├── requirements.txt
 ├── weights/
@@ -78,8 +78,8 @@ fire-smoke-detection-demo/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/fire-smoke-detection-demo.git
-cd fire-smoke-detection-demo
+git clone https://github.com/parsa-mjls/fire-smoke-detection.git
+cd fire-smoke-detection
 
 python -m venv venv
 source venv/bin/activate        # on Windows: venv\Scripts\activate
